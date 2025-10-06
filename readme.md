@@ -235,17 +235,9 @@ taskkill /PID <PID> /F
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido para o **Módulo 1: Escalabilidade e Persistência**  
-Disciplina: Sistemas em Tempo Real
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ---
 
-**💡 Dica:** Experimente abrir múltiplas abas do navegador para simular vários usuários e ver a mágica acontecer em tempo real!
